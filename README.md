@@ -1,5 +1,9 @@
 # Manual-testing-on-Logitechg.com
-This project demonstrate manual testing of login and registration page of "logitechg.com" which includes Testplan,mindmap,TestScenarios,Testcase,Test Summary Report,Bug Report,TestMatrices.
+### **Google Drive Link of this Project
+-https://docs.google.com/spreadsheets/d/1EPPdZhFYFJROKrv4rVpUegps3TyLRUoK/edit?gid=212710091#gid=212710091
+
+
+This project demonstrates manual testing of login and registration page of "logitechg.com" which includes Testplan, mindmap,TestScenarios, Testcase,Test Summary Report,Bug Report,TestMatrices.
 ### **Features**
 -Test Plan:
 A high-level document outlining the scope, objectives, resources, and schedule for the testing process.
