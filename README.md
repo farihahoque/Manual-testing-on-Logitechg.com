@@ -35,32 +35,33 @@ A test matrix is a tool used to organize and track the testing process. Also, it
 ## Test Cases for Gadstyle.com
 
  ## _**Test Plan**_
-![image](https://github.com/user-attachments/assets/2594a0ac-efab-4449-997c-06ef8474919b)
+![image](https://github.com/user-attachments/assets/31b75a01-59d5-4432-a887-aa42e7cb952e)
 
  ## _**Mind Map**_
 Here mindmap is done with xmind software.
 
-![image](https://github.com/user-attachments/assets/25e716cd-40c2-46c3-be4a-bb5d886f50b5)
+![image](https://github.com/user-attachments/assets/2aed9855-e35e-4e1a-ab37-2e60d34eb3c2)
 
  ## _**Test Scenarios**_
  
-  ![image](https://github.com/user-attachments/assets/09b97061-9c2e-49fa-9af7-7a9331a940cd)
+ ![image](https://github.com/user-attachments/assets/f1889472-4f8d-40ff-b283-1d6ea3628c05)
 
  ## _**Test Cases**_
 
-  ![image](https://github.com/user-attachments/assets/721796e6-193e-48f0-bd15-6f602873a510)
+ ![image](https://github.com/user-attachments/assets/9b207b8e-2f44-452f-8282-4af2f003d6fd)
 
    ## _**Test Summary Report**_
 
-![image](https://github.com/user-attachments/assets/0601602b-509f-411a-97a0-0be8df2b1295)
+![image](https://github.com/user-attachments/assets/58373a4e-0807-45c9-a110-970e7bb18541)
 
 ## _**Bug Report**_
 
-![image](https://github.com/user-attachments/assets/7a913f4f-9a6f-400a-a55a-3101bb0fa6d3)
+![image](https://github.com/user-attachments/assets/e4d61a68-1925-48a7-8712-e4c864eea3f1)
 
 ## _**Test Matrices**_
 
-![image](https://github.com/user-attachments/assets/0b17cd2d-f60c-463d-badd-a4e08388f2c7)
+![image](https://github.com/user-attachments/assets/66e82678-5936-4233-8789-da08cb677685)
+
 
 
 
