@@ -32,7 +32,7 @@ A test matrix is a tool used to organize and track the testing process. Also, it
 
  - https://docs.google.com/spreadsheets/d/1EPPdZhFYFJROKrv4rVpUegps3TyLRUoK/edit?gid=212710091#gid=212710091
 
-## Test Cases for Gadstyle.com
+## Test Cases for Logitechg.com
 
  ## _**Test Plan**_
  Below the first part of test plan is given.
