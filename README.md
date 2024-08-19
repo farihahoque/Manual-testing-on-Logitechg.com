@@ -35,6 +35,7 @@ A test matrix is a tool used to organize and track the testing process. Also, it
 ## Test Cases for Gadstyle.com
 
  ## _**Test Plan**_
+ Below the first part of test plan is given.
 ![image](https://github.com/user-attachments/assets/31b75a01-59d5-4432-a887-aa42e7cb952e)
 
  ## _**Mind Map**_
@@ -43,10 +44,12 @@ Here mindmap is done with xmind software.
 ![image](https://github.com/user-attachments/assets/2aed9855-e35e-4e1a-ab37-2e60d34eb3c2)
 
  ## _**Test Scenarios**_
+ Some sample test scenarios are given below.
  
  ![image](https://github.com/user-attachments/assets/f1889472-4f8d-40ff-b283-1d6ea3628c05)
 
  ## _**Test Cases**_
+ A few examples of test cases are given in the following figure.
 
  ![image](https://github.com/user-attachments/assets/9b207b8e-2f44-452f-8282-4af2f003d6fd)
 
@@ -55,6 +58,7 @@ Here mindmap is done with xmind software.
 ![image](https://github.com/user-attachments/assets/58373a4e-0807-45c9-a110-970e7bb18541)
 
 ## _**Bug Report**_
+sample of a bug report is given here.
 
 ![image](https://github.com/user-attachments/assets/e4d61a68-1925-48a7-8712-e4c864eea3f1)
 
